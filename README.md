@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Olivares</h1>
 <h3 align="center">A passionate Front End developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m always using **React Js**
 
 - 👨‍💻 Some of my projects are available at [https://rodri-olivares.vercel.app/](https://rodri-olivares.vercel.app/)
 
