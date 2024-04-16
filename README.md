@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **riolivares.dev@gmail.com**
 
-- 📄 Know about my experiences [https://media.licdn.com/dms/document/media/D4D2DAQFb_dxtsOirGQ/profile-treasury-document-pdf-analyzed/0/1688923671792?e=1689811200&v=beta&t=aV1IxdMzjNe0DJiB4nMfGQwENaaS9KSmW-DNMFLT7Mk](https://media.licdn.com/dms/document/media/D4D2DAQFb_dxtsOirGQ/profile-treasury-document-pdf-analyzed/0/1688923671792?e=1689811200&v=beta&t=aV1IxdMzjNe0DJiB4nMfGQwENaaS9KSmW-DNMFLT7Mk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ignacio-olivares-158547220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-ignacio-olivares-158547220/" height="30" width="40" /></a>
