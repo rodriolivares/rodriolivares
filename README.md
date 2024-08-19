@@ -3,9 +3,9 @@
 
 - 🌱 I’m always using **React Js**
 
-- 👨‍💻 Some of my projects are available at [https://rodri-olivares.vercel.app/](https://rodri-olivares.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://rodriolivares.vercel.app/](https://rodriolivares.vercel.app/)
 
-- 💬 Ask me about **React Js, Next, Tailwind**
+- 💬 Ask me about **React Js, Next, CSS**
 
 - 📫 How to reach me **riolivares.dev@gmail.com**
 
